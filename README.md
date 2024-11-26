@@ -1,6 +1,6 @@
 # Personal Portfolio Website Development
 
-This is a personal portfolio, a project for my school.
+This is my personal portfolio, a project for my school.
 
 ## Links 
 
